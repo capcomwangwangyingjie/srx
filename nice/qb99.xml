@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="gbk"?>
+<root>
+	
+	
+	
+
+	<Head>
+		
+		
+		
+		
+		
+		
+	
+		<OpBankCode>B999</OpBankCode>
+		<OpName>X0200</OpName>
+		<OpEntID>ECFM</OpEntID>
+		<OpDate>20160614</OpDate>
+		<OpID>20160614190327110</OpID>
+	</Head>
+	<Param>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		<Name/>
+		<Account>722013093010530911</Account>
+		<Bank/>
+		<AccReserved1/>
+		<AccReserved2/>
+		<AccReserved3/>
+		<AccReserved4/>
+		<Currency/>
+		<Reserved1/>
+		<Reserved2/>
+		<Reserved3/>
+		<Reserved4/>
+		<RecordSet>
+			
+			
+			
+			
+			
+			
+		
+			<Name>中兴通讯</Name>
+			<Reserved1>1</Reserved1>
+			<Reserved2/>
+			<Reserved3/>
+			<Reserved4/>
+		</RecordSet>
+		<RecordSet>
+			
+			
+			
+			
+			
+			
+		
+			<Name>华为集团</Name>
+			<Reserved1/>
+			<Reserved2/>
+			<Reserved3/>
+			<Reserved4/>
+		</RecordSet>
+		<RecordSet>
+			<Name>万达集团</Name>
+			<Reserved1>xx</Reserved1>
+			<Reserved2/>
+			<Reserved3/>
+			<Reserved4/>
+		</RecordSet>
+	</Param>
+</root>
